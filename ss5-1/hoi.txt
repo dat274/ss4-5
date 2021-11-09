@@ -1,2 +1,3 @@
 ss4-2:có cách nào khác nhanh hơn cách dùng display flex ko?
 ss5-1:vì sao ko phải child  1 mà child 2
+ss5-2: làm sao để hàng chú thích gần ảnh
