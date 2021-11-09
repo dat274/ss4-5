@@ -1,0 +1,11 @@
+p:nth-child(2)::first-letter{
+    color: red;
+    font-size: 200%
+}
+p:nth-child(3)::first-line{
+    color: blue;
+}
+a{
+    font-weight: bold;
+    font-size: 150%;
+}
